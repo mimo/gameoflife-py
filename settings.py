@@ -1,0 +1,14 @@
+
+# Palette
+WHITE = (240, 240, 240)
+BLACK = (20, 20, 20)
+ORANGE = (255, 125, 0)
+
+FPS = 8
+TITLE = "Game of life"
+
+TILESIZE = 16
+ROWS = 50
+COLS = 100
+WIDTH = COLS * TILESIZE
+HEIGHT = ROWS * TILESIZE
